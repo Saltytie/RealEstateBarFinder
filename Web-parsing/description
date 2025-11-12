@@ -1,1 +1,2 @@
-Web-scraping N1
+repository: data_estates.csv  - папка со всеми объявлениями, которые удалось получить при web-parsing
+file: Selenium.ipynb - обработка страниц 
